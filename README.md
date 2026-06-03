@@ -1,5 +1,8 @@
 # The Copenhagen Book
 
+> [!NOTE]
+> **This project is now archived and has been replaced by [auth.pilcrowonpaper.com](https://auth.pilcrowonpaper.com) ([GitHub repository](https://github.com/pilcrowonpaper/auth.pilcrowonpaper.com)).**
+
 **[thecopenhagenbook.com](https://thecopenhagenbook.com)**
 
 The Copenhagen Book provides a general guideline on implementing auth in web applications. It is free, open source, and community maintained. It may be opinionated or incomplete at times but we hope this fills a certain void in online resources. We recommend using this alongside the [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html).

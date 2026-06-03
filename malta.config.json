@@ -22,9 +22,7 @@
 		},
 		{
 			"title": "Cryptography",
-			"pages": [
-				["ECDSA", "/cryptography/ecdsa"]
-			]
+			"pages": [["ECDSA", "/cryptography/ecdsa"]]
 		},
 		{
 			"title": "Links",
@@ -38,8 +36,13 @@
 					"OWASP Cheat Sheet Series",
 					"https://cheatsheetseries.owasp.org"
 				],
-				["Donate", "https://github.com/sponsors/pilcrowOnPaper"]
+				["Donate", "https://github.com/sponsors/pilcrowonpaper"]
 			]
 		}
-	]
+	],
+	"alert": {
+		"message": "This website has been replaced and is no longer maintained.",
+		"link_text": "Go to auth.pilcrowonpaper.com",
+		"link_url": "https://auth.pilcrowonpaper.com"
+	}
 }
